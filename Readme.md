@@ -27,7 +27,7 @@ This website provides a user-friendly interface for processing payments securely
  
 ## Website Preview
 
-![Website Preview](https://github.com/manasi-gade07/maitree_donation_web/blob/02cc6b27ed85782d41eacee47599490b3df55628/Web_preview?raw=true)
+![Website Preview](https://github.com/manasi-gade07/Maitree.com/blob/164edf9213346a3d29753971945aec13321601cb/web%20preview.png)
 
 
 
